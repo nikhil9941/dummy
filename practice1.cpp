@@ -14,6 +14,6 @@ int main(){
             str1[i]=ch1;
         }
     }
-    cout<<str1<<endl;
+    cout<<"Str1 :"<<str1<<endl;
     return 0;
 }
